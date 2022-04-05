@@ -1,2 +1,2 @@
 all:
-	ln ../../redes*P1R.* .
+	ln ../../redes-2*P1R.* .
