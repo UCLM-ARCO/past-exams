@@ -1,2 +1,2 @@
 all:
-	ln ../../ssdd*P2.* .
+	ln ../../ssdd*P2?.* .
