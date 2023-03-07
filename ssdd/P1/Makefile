@@ -1,2 +1,2 @@
 all:
-	ln -sf ../../ssdd*P1*.* .
+	ln -f ../../ssdd*P1*.* .

@@ -1,2 +1,2 @@
 all:
-	ln -sf ../../redes-2*P1*.* .
+	ln -f ../../redes-2*P1*.* .
